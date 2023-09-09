@@ -1,0 +1,84 @@
+.polka {
+	position: absolute;
+	border: -10px solid;
+	top: 10px;
+	left: 1000px;
+	right: 800px;
+	color: red;
+	font-size: 20pt;
+	text-shadow: 7px 4px 6px green;
+	background-color: white;
+	padding: -30px;
+	background-size: 10px;
+
+}
+#pupe {
+	text-align: center;
+	position: absolute;
+    width: 1510px;
+    height: 60px;
+    background-color: mediumpurple;
+    font-size: 30pt;
+    left: 300px;
+    top: 13px;
+   }
+   #bok {
+     border: 3px solid;
+     position: absolute;
+     width: 270px;
+     height: 900px;
+     font-size: 30pt;
+     text-align: center;
+     background-color: mediumpurple;
+
+   }
+   #silki {
+   	font-size: 15pt;
+   }
+   .list {
+
+   	list-style: none;
+   	margin-right: 50px;
+   	text-align: center;
+   }
+   #video {
+   	position: absolute;
+   	left: 300px;
+   	top: 100px;
+   }
+   #footer {
+   	position: absolute;
+   	bottom: 10px;
+   	left: 300px;
+   	background-color: mediumpurple;
+   	width: 1500px;
+   	height: 70px;
+   	text-align: left;
+    text-indent: 20px;
+    }
+
+    #footer2 {
+   	position: absolute;
+   	bottom: 25px;
+   	left: 1200px;
+
+	}
+
+body {
+	background-color: white;
+	background-repeat: repeat-y;
+	background-image: url("Effekty_figury__5.png");
+	background-size: 100px;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat: inherit;}
+a:link {
+	color: black;
+	text-decoration: none;
+}
+a:visited {
+	color: black;
+}
+a:hover {
+	color: white;
+}
